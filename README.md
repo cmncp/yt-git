@@ -12,3 +12,6 @@ esperemos de resultado
 
  realizar nuevos cambios 
 
+### agregando mas contenido al readme
+
+los cambios seran una opcion 
