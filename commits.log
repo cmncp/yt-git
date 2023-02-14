@@ -1,0 +1,104 @@
+commit dfa3313a31aaa97fc1ab0256bbb7e8eb884aa13a
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 09:28:32 2023 -0500
+
+    agregando parrafos
+
+commit 3cf56cd20413b6c9cc11ec8ab6e11784930deb1d
+Merge: de7e79b e4777cf
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 09:24:55 2023 -0500
+
+    hemisferio norte fechas de estaciones
+
+commit de7e79b6838d7565dea6edcb6868de76a08dfe0f
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 08:38:52 2023 -0500
+
+    Agregando fechas de estaciones del año
+
+commit e4777cf9d86da06adf21b1ce7bf8fa1416a9be9b
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 08:38:52 2023 -0500
+
+    estaciones del año
+
+commit 1205f20da60434498a597394c6918d7d1d8d5f8d
+Merge: 6a1712b 70700df
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 08:21:13 2023 -0500
+
+    resolusion de conflictos
+
+commit 70700df02202b3d7894b3a5e07329ca532758550
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 08:11:57 2023 -0500
+
+    agregando index js
+
+commit 6a1712beb98888d2fe563c8f7cfc5cb1ed810f33
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 08:06:48 2023 -0500
+
+    agregando style a html
+
+commit f9715c678d7f353534e80bbd677b83d605e73071
+Merge: e6b63f3 7de667f
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Tue Feb 14 07:46:37 2023 -0500
+
+    Merge branch 'js'
+
+commit 7de667f3c2204afb168f8a22efc349b3cc7b77ea
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 17:05:06 2023 -0500
+
+    creando archivo js
+
+commit e6b63f3b027855fa81b93b7a803df39568109375
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 16:56:03 2023 -0500
+
+    creando css estilos
+
+commit 89e808cfa8567454a624765ce82a256d14c8546a
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 16:48:00 2023 -0500
+
+    creando archivo html
+
+commit ad89a8e4f4bf6acfcb66e8235c920c2a4a7dfd41
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 16:07:21 2023 -0500
+
+    Ignorando archivos exe
+
+commit 8a6a104e13c521bdff11a471481a88d9e6171223
+Author: cmncp <124404668+cmncp@users.noreply.github.com>
+Date:   Mon Feb 13 10:39:09 2023 -0500
+
+    Create licence.tex
+
+commit 8a78b68f4db646fec0cc9a24e8a286a7197b2e5a
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 10:11:45 2023 -0500
+
+    ULTIMOS CAMBIOS
+
+commit 215bf178ece2813ca6534f5cdb1817ed58d7dc7e
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 09:49:24 2023 -0500
+
+    cambios urgentes
+
+commit 51b2e7d861a01b7b451e7fd2650e6bf15afb3ce6
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 09:41:37 2023 -0500
+
+    cambios realizados
+
+commit 435e65706480284e28ea8770cb0c3b0eb0906dc8
+Author: cmncp <carlos.cervera@istpmala.edu.pe>
+Date:   Mon Feb 13 08:20:34 2023 -0500
+
+    Agregando contenido

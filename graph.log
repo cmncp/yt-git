@@ -1,0 +1,24 @@
+ * dfa3313 agregando párrafos
+*   3cf56cd hemisferio norte fechas de estaciones
+|\  
+| * e4777cf estaciones del año
+* | de7e79b Agregando fechas de estaciones del año
+|/  
+*   1205f20 resolución de conflictos
+|\  
+| * 70700df agregando index js
+* | 6a1712b agregando style a html
+* |   f9715c6 Merge branch 'js'
+|\ \  
+| * | 7de667f creando archivo js
+* | | e6b63f3 creando css estilos
+| |/  
+|/|   
+* | 89e808c creando archivo html
+|/  
+* ad89a8e Ignorando archivos exe
+* 8a6a104 Create licence.tex
+* 8a78b68 ÚLTIMOS CAMBIOS
+* 215bf17 cambios urgentes
+* 51b2e7d cambios realizados
+* 435e657 Agregando contenido
