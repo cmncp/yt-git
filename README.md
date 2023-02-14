@@ -14,4 +14,6 @@ esperemos de resultado
 
 ### agregando mas contenido al readme
 
-los cambios seran una opcion 
+los cambios serán una opción 
+
+Este commit es para mostrar el versionado iniciando en **1.0.0**
